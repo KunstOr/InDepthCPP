@@ -7,11 +7,14 @@ int main()
 {
     // Comment
     std::cout << "Hello World!\n";
+<<<<<<< HEAD
 
 
 
 
     // Comment below code
+=======
+>>>>>>> ef02a13 (Adding comment in TryRebase)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
