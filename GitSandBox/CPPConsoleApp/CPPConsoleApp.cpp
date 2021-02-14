@@ -8,13 +8,19 @@ int main()
     // Comment
     std::cout << "Hello World!\n";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 168d8f4 (Adding comments below Code)
 
 
 
 
     // Comment below code
+<<<<<<< HEAD
 =======
 >>>>>>> ef02a13 (Adding comment in TryRebase)
+=======
+>>>>>>> 168d8f4 (Adding comments below Code)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
