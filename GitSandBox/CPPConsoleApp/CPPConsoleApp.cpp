@@ -5,22 +5,8 @@
 
 int main()
 {
-    // 11
-
-
-    // Comment
-    // Adding another comment above code
-
+    // TryRebase : Adding first comment 
     std::cout << "Hello World!\n";
-    std::cout << "Phenix" << std::endl;
-    std::cout << "Lenovo" << std::endl;
-
-
-
-
-    // Comment below code
-    // Adding another comment below code in TryRebase branch
-    // Adding another 2 comment below code in TryRebase branch
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
