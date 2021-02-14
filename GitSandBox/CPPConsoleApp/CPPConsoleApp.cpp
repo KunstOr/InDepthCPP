@@ -5,10 +5,7 @@
 
 int main()
 {
-
-
-
-
+    // Comment
     std::cout << "Hello World!\n";
 
 
